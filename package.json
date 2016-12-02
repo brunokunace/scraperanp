@@ -1,0 +1,14 @@
+{
+    "name": "ANP-Crawler",
+    "version": "1.0.0",
+    "keywords": ["util", "functional", "server", "client", "browser"],
+    "author": "jeff",
+    "main": "server.js",
+    "contributors": [],
+    "dependencies": {
+        "express": "latest",
+        "request": "latest",
+        "cheerio": "latest"
+
+    }
+}
